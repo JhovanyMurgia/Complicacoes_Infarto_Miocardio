@@ -12,5 +12,6 @@ O objetivo deste projeto é desenvolver modelos de aprendizado de máquina capaz
 
 **Contribuições:**
 
-Implementação de algoritmos de aprendizado de máquina para análise preditiva de complicações do infarto do miocárdio.
-Experimentação com diferentes técnicas e modelos para avaliar sua eficácia na predição de eventos adversos.
+-Implementação de algoritmos de aprendizado de máquina para análise preditiva de complicações do infarto do miocárdio.
+
+-Experimentação com diferentes técnicas e modelos para avaliar sua eficácia na predição de eventos adversos.
